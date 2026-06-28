@@ -18,4 +18,12 @@
 
 > so, nick is covered
 
-# Ainur Mardiah 
+# Ainur Mardiah :)
+:rocket 
+:fire :memo
+
+[![Status](https://img.shields.io/badge/status-complete-green)]()
+
+| Item1 || Item1 |
+
+
