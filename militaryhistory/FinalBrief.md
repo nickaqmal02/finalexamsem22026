@@ -1,29 +1,51 @@
-## what will be in final exam
+# 🎯 Military History — Final Exam Prep
 
-### what we already covered for subjective one
-1. Detail of each warfare era : ancient, medieval, gunpowder, industrial and lastly it was modern warfare from 1945 till present
-2. About international peacemaker mission that involving Malaysia Armed Forces that we sent our MAF since 1960, what is prove of MAF is about: bilateral relations, skillful forces even without real world war experience and the lesson about Bakara incident that 
-3. World War 2 causes 
-4. KESBAN,
+---
 
-#### next is the objective one
-1. History of Malaysia Armed Forces
-2. World War | 
-3. World War II
-4. Japanese Invasions
-5. 1st Emergency
-6. 2nd Emergency
-7. United Nation
-8. Malaysia vs Indonesia Confrontation
+## 📝 Subjective Questions
 
-> so, nick is covered
+### 1. Warfare Eras
+Detail of each era:
+- 🏛️ **Ancient**
+- 🗡️ **Medieval**
+- 🔫 **Gunpowder**
+- 🏭 **Industrial**
+- 🛰️ **Modern** (1945–present)
 
-# Ainur Mardiah :)
-:rocket: 
-:fire: :memo:
+### 2. Malaysia Armed Forces (MAF) — International Peacekeeping
+- MAF involvement since **1960**
+- **Proof of MAF capability:**
+  - 🤝 Bilateral relations
+  - ⚔️ Skilled forces despite no real-world war experience
+- 📖 **Lesson from Bakara incident**
 
-[![Status](https://img.shields.io/badge/status-complete-green)]()
+### 3. World War II — Causes
 
-| Item1 || Item1 |
+### 4. KESBAN
 
+---
 
+## ✅ Objective Questions
+
+| # | Topic |
+|---:|---|
+| 1 | History of Malaysia Armed Forces |
+| 2 | World War I |
+| 3 | World War II |
+| 4 | Japanese Invasion |
+| 5 | 1st Emergency |
+| 6 | 2nd Emergency |
+| 7 | United Nations |
+| 8 | Malaysia vs Indonesia Confrontation |
+
+---
+
+> 📥 Slides coming soon — will tackle objective questions tonight.
+
+---
+
+🔥🚀📝
+
+---
+
+*Ainur Mardiah :)*
